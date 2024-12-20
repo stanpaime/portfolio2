@@ -1,0 +1,28 @@
+.skills {
+  margin: 0px;
+}
+
+.html {
+  width: 90%;
+  background-color: #04aa6d;
+}
+
+.progress {
+  height: 30px;
+  width: 90%;
+}
+
+.progress-bar {
+  background-color: #adebeb;
+  color: black;
+}
+
+.header {
+  background-color: #adebeb;
+  color: #6b6b47;
+}
+
+.project {
+  background-color: #adebeb;
+  color: black;
+}
